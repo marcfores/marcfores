@@ -1,4 +1,4 @@
-# Hi there, I'm Marc Forés 👋
+# Hi there, I'm Marc Forés 
 
 I am a Digital Technology and Multimedia student at UPV (Spain), highly passionate about the intersection of sound, architectural acoustics, and emerging immersive technologies. 
 
