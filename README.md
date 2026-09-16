@@ -14,6 +14,6 @@ I specialize in **audio production, spatial sound, and XR development**, always 
 *   **Visual & 3D:** Blender, Adobe Creative Cloud (Premiere, After Effects), 3D Printing
 
 ###  Let's Connect
-*   **LinkedIn:** [Your LinkedIn URL]
+*   **LinkedIn:** www.linkedin.com/in/marc-forés-a8096a436
 *   **Personal Email:** marcfd18@gmail.com
 *   **University Email:** mfordom@upv.edu.es
