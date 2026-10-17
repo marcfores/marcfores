@@ -5,7 +5,7 @@ I am a Digital Technology and Multimedia student at UPV (Spain), highly passiona
 I specialize in **audio production, spatial sound, and XR development**, always aiming to create immersive experiences that bridge the gap between technical problem-solving and digital arts. Currently, I am looking for an **Erasmus+ Traineeship** opportunity to apply my skills in an international environment.
 
 ###  Current Focus
-*   **Thesis Project:** Researching *Immersive Sound Design in Mixed Reality (XR)*, exploring the spatial and psychological impact of combining classical orchestration with experimental digital aesthetics in virtual environments.
+*   **Thesis Project:** Directed the interactive acoustic reconstruction of a sacred heritage site, transitioning from theoretical simulation to empirical *in situ* measurement of Impulse Responses (IR). Developed an optimized spatial audio architecture using Multi-zone Auralization.
 *   Conducting studio-based acoustic research and quantitative UX perception studies.
 
 ###  Tech Stack & Tools
